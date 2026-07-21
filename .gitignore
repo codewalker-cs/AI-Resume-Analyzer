@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment variables
+.env
+
+# React
+node_modules/
+dist/
+
+# VS Code settings
+.vscode/
+
+# Resume uploads
+uploads/
+
+# macOS
+.DS_Store
