@@ -1,0 +1,26 @@
+Phase 1
+- React Setup
+- Upload Resume UI
+- Job Description Input
+
+Phase 2
+- FastAPI Backend
+- File Upload API
+
+Phase 3
+- Resume Parsing
+
+Phase 4
+- Skill Matching
+
+Phase 5
+- Match Score
+
+Phase 6
+- Suggestions
+
+Phase 7
+- Database
+
+Phase 8
+- Deployment
