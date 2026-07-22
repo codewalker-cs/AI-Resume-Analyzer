@@ -16,7 +16,7 @@ An AI-powered web application that analyzes resumes against job descriptions, id
 
 - [x] React project setup
 - [x] First component
-- [ ] Resume upload
+- [x] Resume upload
 - [ ] Resume parser
 - [ ] AI Analysis
 - [ ] Database
